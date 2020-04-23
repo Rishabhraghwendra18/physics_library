@@ -5,6 +5,11 @@
 #include "framework.h"
 
 // TODO: This is an example of a library function
-void fnPhysicslibrary()
-{
+
+namespace emi {
+	void fnPhysicslibrary()
+	{
+		//all codes here 
+	}
+
 }
