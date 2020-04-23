@@ -1,15 +1,10 @@
-// Physics_library.cpp : Defines the functions for the static library.
-//
-
 #include "pch.h"
 #include "framework.h"
-
-// TODO: This is an example of a library function
-
 namespace emi {
-	void fnPhysicslibrary()
+	
+	float flux(float magf, float area)
 	{
-		//all codes here 
+		return magf * area;
 	}
 
 }
