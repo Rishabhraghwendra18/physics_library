@@ -6,3 +6,6 @@ namespace emi {
 #define tur_len( tu , len ) tu/len
 
 }
+namespace EMW {
+#define c 3
+}
