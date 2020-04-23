@@ -2,6 +2,7 @@
 #include "framework.h"
 namespace emi {
 #define uo 12.56
+#define pi 3.14
 #define tur_len( tu , len ) tu/len
 
 }
