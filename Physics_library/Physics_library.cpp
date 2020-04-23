@@ -8,4 +8,8 @@ namespace emi {
 }
 namespace EMW {
 #define c 3
+	float sp_Ew(float mag) {
+		return c * mag;
+	}
+		
 }
