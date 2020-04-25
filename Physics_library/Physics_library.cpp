@@ -5,4 +5,10 @@ namespace emi {
 #define pi 3.14
 #define tur_len( tu , len ) tu/len
 
+	float solo_mag(float N, float i )
+	{
+		return uo*N * i;
+	}
+
+
 }
