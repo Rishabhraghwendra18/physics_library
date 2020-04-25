@@ -1,6 +1,7 @@
 #include "pch.h"
 #include "framework.h"
 #include<math.h>
+#include"Physics_library.h"
 namespace emi {
 #define uo 12.56
 #define pi 3.14
