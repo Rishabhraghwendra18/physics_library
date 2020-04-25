@@ -1,3 +1,3 @@
-﻿  pch.cpp
-  Physics_library.cpp
-  Physics_library.vcxproj -> C:\Users\risha\Documents\GitHub\physics_library\Physics_library\Debug\Physics_library.lib
+﻿  Physics_library.cpp
+C:\Users\risha\Documents\GitHub\physics_library\Physics_library\Physics_library.cpp(12,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\risha\Documents\GitHub\physics_library\Physics_library\Physics_library.cpp(17,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
