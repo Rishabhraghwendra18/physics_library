@@ -1,1 +1,4 @@
 ﻿  Physics_library.cpp
+
+C:\Users\risha\Documents\GitHub\physics_library\Physics_library\Physics_library.cpp(18,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+
