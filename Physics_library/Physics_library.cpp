@@ -18,5 +18,4 @@ namespace EMW {
 		float mul = u * e;
 		return 1.0 / sqrt(mul) ;
 	}
-		
 }
