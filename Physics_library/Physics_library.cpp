@@ -15,7 +15,8 @@ namespace EMW {
 	}
 	float sp_W(float u, float e)
 	{
-		return 1.0 / sqrt(u * e) ;
+		float mul = u * e;
+		return 1.0 / sqrt(mul) ;
 	}
 		
 }
